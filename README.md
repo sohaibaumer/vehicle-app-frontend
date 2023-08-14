@@ -22,3 +22,7 @@ Currently, two official plugins are available:
   npm run dev
   ```
 - The server will be running at http://localhost:3000
+
+## Walkthrough Video
+
+Click [here](https://drive.google.com/file/d/1S6c8aFaIMCZ84zV1kEBcVzGMMkEMuYR-/view?usp=sharing) to watch the walkthrough video.
